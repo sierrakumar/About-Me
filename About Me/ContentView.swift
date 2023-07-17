@@ -22,7 +22,7 @@ struct ContentView: View {
                 .frame(height: nil)
             
             
-            Button("Click Here")
+            Button(" Click ")
             {
 
             action:do {
